@@ -13,7 +13,6 @@ public class AmazonTest {
      * search for selenium
      * click search button
      * verify 1-48 of 304 results for "Java"
-     *
      */
 
     public static void main(String[] args) {

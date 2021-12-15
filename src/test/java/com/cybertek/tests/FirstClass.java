@@ -4,6 +4,7 @@ import com.github.javafaker.Faker;
 public class FirstClass {
 
     public static void main(String[] args) {
+        // this was the first class in selenium
         System.out.println("Hello World");
 
         Faker faker = new Faker();
