@@ -34,9 +34,9 @@ public class T01_YahooPractice {
 //        WebDriver driver = new ChromeDriver();
 //
 //        driver.get("https://www.yahoo.com/%22");
+//          String expectedTitle = "Yahoo";
 //
 //
-//                String expectedTitle = "Yahoo";
 //
 //
 //        if(driver.getTitle().equalsIgnoreCase(expectedTitle)){

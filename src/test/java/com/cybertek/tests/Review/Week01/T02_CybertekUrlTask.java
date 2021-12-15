@@ -36,6 +36,7 @@ public class T02_CybertekUrlTask {
 //        if (getUrlCond.contains("cybertekschool")) {
 //            System.out.println("Current url is contains 'cybertekschool and Title is " + title);
         //driver.close();
+
 //
 //        }
 
